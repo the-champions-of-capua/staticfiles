@@ -1,0 +1,4 @@
+λ CertUtil -hashfile caidao-20160620-www.maicaidao.com.7z
+SHA1 的 caidao-20160620-www.maicaidao.com.7z 哈希:
+3c87e017e3cf77c06827c587e43f902e6af7b6b8
+CertUtil: -hashfile 命令成功完成。
